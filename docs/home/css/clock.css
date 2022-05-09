@@ -1,0 +1,10 @@
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#container > p {
+    font: 1.1em Arial, sans-serif;
+    margin: 0;
+}
